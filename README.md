@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/7551f279-de44-4f9f-9104-53cea859e6b0.svg)](https://wakatime.com/@7551f279-de44-4f9f-9104-53cea859e6b0)
+- :telescope: I’m currently working as a Data Scientist.
+- 💬 Ask me about Machine Learning, Statistics, Python, AWS, and credit risk modelling.
+- 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/abhishek-bakshi-0b934a153)
+- 😄 Pronouns: He/Him 
+
 <!--
 **Boxxxi/Boxxxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
