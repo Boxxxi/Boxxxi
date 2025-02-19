@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there 👋<br><br>[![wakatime](https://wakatime.com/badge/user/7551f279-de44-4f9f-9104-53cea859e6b0.svg)](https://wakatime.com/@7551f279-de44-4f9f-9104-53cea859e6b0)<br>- :telescope: I’m currently working as a Senior Data Scientist.<br>- 💬 Ask me about NLP, Machine Learning, Statistics, Python, or AWS,<br>- 😄 Pronouns: He/Him 
+### Hi there 👋<br><br>[![wakatime](https://wakatime.com/badge/user/7551f279-de44-4f9f-9104-53cea859e6b0.svg)](https://wakatime.com/@7551f279-de44-4f9f-9104-53cea859e6b0)<br>- :telescope: I’m currently working as a Senior Data Scientist.<br>- 💬 Ask me about NLP, Machine Learning, Statistics, Python, or AWS!<br>- 😄 Pronouns: He/Him 
 
 
 ## 🌐 Socials:
